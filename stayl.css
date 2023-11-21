@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 0; 
     padding: 0;
     text-decoration: none;
     list-style: none;
@@ -51,6 +51,15 @@ nav{
     border: none;
 }
 
+.koko:hover{
+    box-shadow: 10px 10px 60px rgb(76, 254, 3);
+    background-color: rgb(85, 252, 2);
+    
+}
+
+.food{
+    margin-left: 50px;
+}
 
 .hollo{
     margin-left: 50px;
@@ -63,6 +72,14 @@ nav{
     line-height: 78px;
     text-transform: capitalize;
     color: #363853;
+}
+
+.klklkhg{
+    font-weight: 500;
+    font-size: 66px;
+    line-height: 78px;
+    text-transform: capitalize;
+    color: #FF7A50;
 }
 
 
@@ -87,6 +104,13 @@ nav{
     box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
     border-radius: 5px;
     border: none;
+}
+
+
+.gg:hover{
+    box-shadow: 10px 10px 60px rgba(245, 255, 3, 0.984);
+    background-color: rgb(255, 242, 0);
+
 }
 
 
@@ -137,6 +161,7 @@ nav{
 .carb:hover{
     background: #FF7A50;
     color: white;
+    box-shadow: 20px 20px 6000px rgb(254,0, 0);
 }
 
 
@@ -165,6 +190,9 @@ nav{
 }
 
 
+
+
+
 .carbb{
     width: 208px;
     height: 320px;
@@ -172,6 +200,10 @@ nav{
     top: 1192px;
     background: #FFFFFF;
     border-radius: 12px;
+}
+
+.carbb:hover{
+    box-shadow: 20px 20px 6000px rgb(20, 20, 20);
 }
 
 
@@ -231,7 +263,7 @@ nav{
     font-weight: 500;
     font-size: 36px;
     text-transform: capitalize;
-    color: #FF7A50;
+    color: #000000;
 }
 
 
@@ -308,6 +340,16 @@ nav{
     background: #FFFFFF;
     border-radius: 53px 5px;
     margin-bottom: 50px;
+    margin-left: 25px;
+}
+
+
+.cardb:hover{
+    box-shadow: 10px 10px 300px rgb(3, 3, 254);
+}
+
+.cardbb:hover{
+    box-shadow: 10px 10px 300px rgb(3, 3, 254);
 }
 
 
@@ -450,6 +492,14 @@ nav{
 
 .klkkk{
     margin-left: 30px;
+
+}
+
+.klkkkk{
+    margin-left: 30px;
+    margin-top: 13px;
+    padding-bottom: 10px;
+
 }
 
 
@@ -675,8 +725,36 @@ footer{
 }
 
 
+.dalkola{
+    color: #FF7A50;
+}
 
 
+.erlanbobo{
+    color: #FF7A50;
+}
 
 
+.xdthae{
+    color: #FF7A50;
 
+}
+
+.boboko{
+    color: #FF7A50;
+}
+
+
+.goodfood{
+    color: #FF7A50;
+}z
+
+
+.ererrer{
+    color: #FF7A50;
+}
+
+
+.kalbasa{
+    color: #FF7A50;
+}
